@@ -1,1 +1,1 @@
-# machine-learning-for-option-pricing-and-Heston-calibration
+# JP-Morgan: ML for option pricing and Heston calibration
